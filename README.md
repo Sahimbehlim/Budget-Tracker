@@ -23,3 +23,7 @@ A simple Budget Tracker application that allows users to set a budget, track the
   ├── app.js              # JavaScript functionality
   ├── README.md           # Project documentation (this file)
 ```
+
+## Screenshot
+
+![Screenshot of Budget Tracker](./budget-tracker-ui.png)
