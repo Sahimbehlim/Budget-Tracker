@@ -1,6 +1,6 @@
 # Budget Tracker
 
-A simple Budget Tracker application that allows users to set a budget, track their expenses, and calculate the remaining balance. Users can add, edit, and delete expense items, with real-time updates on the budget, expenses, and balance.
+A simple budget tracker application that allows users to set a budget, track their expenses, and calculate the remaining balance. Users can add, edit, and delete expense items, with real-time updates on the budget, expenses, and balance.
 
 ## Features
 
